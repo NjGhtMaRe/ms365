@@ -15,8 +15,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Native
+          Learn React Native with me.
         </a>
+        <a>Alo</a>
       </header>
     </div>
   );
